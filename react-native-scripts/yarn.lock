@@ -64,6 +64,11 @@
     component-type "^1.2.1"
     join-component "^1.1.0"
 
+"@snyk/protect@^1.1207.0":
+  version "1.1207.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1207.0.tgz#1fa34a07987100b43faf94e04aaaaf528b14a437"
+  integrity sha512-ghRa5S8aH8z9I3WGbl4/ISqkNUOmiNLG1XWkN7SyCsd1UZmY0WZDiKMLU1ZQrPQQdrCPyC+jwpRkKwDdfFLVqw==
+
 "@taskr/babel@^1.0.6":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@taskr/babel/-/babel-1.1.0.tgz#f5af6b236395cbd013d3f67328ca73651e0299a1"
